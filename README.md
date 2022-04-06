@@ -38,12 +38,12 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
+
 - This project is part of Executive PG Programme in Machine Learning program by Upgrad.
 
 
 ## Contact
-Created by 
+
 - Rajender Kanchu - rajenderk2019@icloud.com
 - Swapnil Raut - swap_raut@yahoo.com
 
