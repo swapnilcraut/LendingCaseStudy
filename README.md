@@ -12,13 +12,11 @@
 
 ## General Information
 - Lending Club company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. 
-![image](https://user-images.githubusercontent.com/102618000/161975359-d91a8616-d2d4-4e81-8d5b-653968a8fd28.png)
+
 
 - WLike most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). The credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'. 
-![image](https://user-images.githubusercontent.com/102618000/161975458-9c523e13-aa32-45ac-898a-61be4f7b593b.png)
 
 - Need to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicant using EDA is the aim of this case study.
-![image](https://user-images.githubusercontent.com/102618000/161975515-e117a7ad-f137-460f-b5ae-02858dd6fb80.png)
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
