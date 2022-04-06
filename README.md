@@ -22,18 +22,18 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+
+Visualizations and summaries the finding from detailed analysis.
+Provide some recommendation to reduce credit loss and improve profit.
+So, here we can see this all different aspect to consider Target Variable is Loan Status And top 5 major variables to consider for loan prediction: Purpose of Loan, Employment Length, Grade, Interest Rate, Term. Now we are ready to Train our model and prediction
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- library - numPy version 1.20.3
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
