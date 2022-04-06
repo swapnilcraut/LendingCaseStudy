@@ -46,8 +46,8 @@ Give credit here.
 
 ## Contact
 Created by 
-> Rajender Kanchu - rajenderk2019@icloud.com
-> Swapnil Raut - swap_raut@yahoo.com
+- Rajender Kanchu - rajenderk2019@icloud.com
+- Swapnil Raut - swap_raut@yahoo.com
 
 
 <!-- Optional -->
